@@ -27,7 +27,7 @@ data/test/x/img5.jpg
 ..
 ..
 
-x and y are the classifications in the example below. You can upload a json file while using predict.py 
+x and y are classifications in the example below. You can upload a json file while using predict.py 
 to map classifications to actual class names
 
 Example usages:

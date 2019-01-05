@@ -1,4 +1,5 @@
 #usage example: #python predict.py flowers/test/1/image_06743.jpg vgg_cp/checkpoint.pth -gpu --top_k 2
+#Author: Rajnesh Kathuria
 
 from get_input_args_p import get_input_args
 from pred_utility import load_and_rebuild, process_image, predict

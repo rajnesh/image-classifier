@@ -1,9 +1,9 @@
 # image-classifier
 This python program uses pyTorch and allows users to select either vgg16 or resnet50 algorithms to train a network to classify images. 
 
-run python train.py --help to view all command line arguments for the training process
+run "python train.py --help" to view all command line arguments for the training process
 
-run python predict.py --help to view all command line arguments for predicting the classification of the image
+run "python predict.py --help" to view all command line arguments for predicting the classification of the image
 
 
 The training program assumes standard pyTorch data folder structure: 

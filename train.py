@@ -1,5 +1,6 @@
  #usage example: python train.py flowers --learning_rate 0.001 --hidden_units 256 --epochs 4 --arch "vgg16" --save_dir "vgg_cp" -gpu
  #usage example: python train.py flowers --learning_rate 0.001 --hidden_units 512 --epochs 4 --arch "resnet50" --save_dir "res_cp" -gpu
+ #Author: Rajnesh Kathuria
 
 from get_input_args import get_input_args
 import numpy as np

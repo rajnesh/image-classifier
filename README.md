@@ -1,5 +1,5 @@
 # image-classifier
-This python program uses pyTorch and allows users to select either vgg16 or resnet50 algorithms to train a network to classify images on a GPU (GPU can be specified using -gpu parameter on the command line). 
+Built as part of Udacity's nanodegree program, this python program uses pyTorch and allows users to select either vgg16 or resnet50 algorithms to train a network to classify images on a GPU (GPU can be specified using -gpu parameter on the command line). 
 
 run "python train.py --help" to view all command line arguments for the training process
 
